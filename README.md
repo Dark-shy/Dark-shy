@@ -8,6 +8,8 @@
 </p>
 
 <p align="center">
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
@@ -19,9 +21,7 @@
 
 
  
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Dark-shy&theme=redical">
-</p>
+
 
 <!--
 **Dark-shy/Dark-shy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
