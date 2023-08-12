@@ -5,7 +5,9 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-shy&theme=radical">
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dark-shy&theme=tokyonight)](https://git.io/streak-stats)
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dark-shy&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+</p>
 
 <!--
 **Dark-shy/Dark-shy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
