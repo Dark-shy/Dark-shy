@@ -6,10 +6,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dark-shy&layout=compact&langs_count=8&card_width=200&theme=tokyonight" />
 </a>-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-shy&repo=github-readme-stats&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dark-shy&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-shy&repo=convoychat&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dark-shy&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dark-shy)](https://git.io/streak-stats)
