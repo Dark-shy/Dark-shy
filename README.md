@@ -4,7 +4,7 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dark-shy&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Dark-shy&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Dark-shy&theme=tokyonight&line_height=33">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-shy&theme=radical">
 </p>
 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-2b73af?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Spring-430098?style=flat-square&logo=spring"/>
-<img src="https://img.shields.io/badge/-SpringMVC-5e7987?style=flat-square&logo=springmvc"/>
+<img src="https://img.shields.io/badge/-Linux-5e7987?style=flat-square&logo=Linux"/>
 </p>
 
 
